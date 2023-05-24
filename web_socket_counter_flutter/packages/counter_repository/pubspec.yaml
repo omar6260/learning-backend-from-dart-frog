@@ -8,10 +8,9 @@ environment:
 
 dependencies: 
   web_socket_client: ^0.1.0-dev.3
-  web_socket_counter:
+  web_socket_counter_flutter:
     git:
-      url: https://github.com/omar6260/learning-backend-from-dart-frog
-      path: web_socket_counter_flutter
+      url: 
 
 dev_dependencies:
   mocktail: ^0.3.0
